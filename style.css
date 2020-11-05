@@ -1,0 +1,103 @@
+body {
+  font-family: 'Lora', serif;
+  background-color: f4f4f2;
+}
+
+h1{
+font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    color: 321f28;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+.container {
+  width: auto;   /* This sets the width */
+  margin: 0 auto;
+ /* This automatically sets left/right margins */
+}
+.intro {
+  font-family: 'Roboto', sans-serif;
+  background-color: f4f4f2;
+  text-align: center;
+}
+
+.name {
+  font-family: 'Montserrat', sans-serif;
+  background: f4f4f2;
+  text-align: right;
+}
+
+#profile {
+  max-width: auto;
+  max-height: auto;
+}
+
+.discover {
+    background: #214252;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.pasta {
+  font-family: 'Roboto', sans-serif;
+  background-color: e8e8e8;
+  text-align: center;
+  padding: 30;
+  color:black;
+  height:auto;
+}
+.coffee {
+  font-family: 'Roboto', sans-serif;
+  background-color: c4b6b6;
+  text-align: center;
+  color:black;
+  height:auto;
+  padding: 30;
+
+}
+
+#coffee_pic  {
+  /*margin: 0 15px 0 0;*/
+}
+
+.yoga {
+  font-family: 'Roboto', sans-serif;
+  background-color: d2f5e3;
+  text-align: center;
+  color:black;
+  height:auto;
+  padding: 30;
+}
+
+.contact {
+  text-align: center;
+  padding: auto;
+}
+
+.lalala {
+  list-style:none;
+
+}
+
+.lalala li {
+  display: inline;
+  text-align: center;
+}
+
+
+/*
+.profile-page .profile img {
+    max-width: 160px;
+    width: 100%;
+    margin: 0 auto;
+    -webkit-transform: translate3d(0,-50%,0);
+    -moz-transform: translate3d(0,-50%,0);
+    -o-transform: translate3d(0,-50%,0);
+    -ms-transform: translate3d(0,-50%,0);
+    transform: translate3d(0,-50%,0);
+}*/
